@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f388997ea561674da13dd2019100722, type: 3}
+  m_Name: SkinManager
+  m_EditorClassIdentifier: 
+  skins:
+  - index: 0
+    cost: 0
+    obj: {fileID: 3933718508013280101, guid: 4aaa18a48a56e504ba84a76a27dd5b46, type: 3}
+  - index: 1
+    cost: 20
+    obj: {fileID: 3776588461163018869, guid: f5c920f785a95ee4fb8a104f60f8ae00, type: 3}
+  - index: 2
+    cost: 20
+    obj: {fileID: 596690599370196438, guid: 55a75c7d44ac09a41a0d8d8e4fa64641, type: 3}
+  - index: 3
+    cost: 20
+    obj: {fileID: 3255596363963636484, guid: 21bd437657d74024083c9e2e1127418d, type: 3}
+  - index: 4
+    cost: 20
+    obj: {fileID: 9214314015864272542, guid: c599fdfed2397894b920b725ed46b1ee, type: 3}
+  - index: 5
+    cost: 20
+    obj: {fileID: 4943373229738997818, guid: b090efbe93c7c4e4b95ad7f72ef3be53, type: 3}
+  - index: 6
+    cost: 20
+    obj: {fileID: 8282552942014276996, guid: b173c98c6f2e20c469b1d7ec93807565, type: 3}
+  - index: 7
+    cost: 20
+    obj: {fileID: 2676303582150999852, guid: 8e44c97f9b48fd84097a29cd8986a431, type: 3}
+  - index: 8
+    cost: 20
+    obj: {fileID: 6739427480991796021, guid: 795e29194670598418ca0bea7f34879b, type: 3}
+  - index: 9
+    cost: 20
+    obj: {fileID: 5835854892930685711, guid: 7897708d5b1b5b34eb88d96ee1307152, type: 3}
+  - index: 10
+    cost: 20
+    obj: {fileID: 3678787441122244620, guid: 345fba8d741ee384d8540d57d85bd583, type: 3}
+  - index: 11
+    cost: 20
+    obj: {fileID: 4176455439875479764, guid: 8339c85353a7db1458e2d1ef6855d5cd, type: 3}
+  - index: 12
+    cost: 20
+    obj: {fileID: 6824616394937128878, guid: 7d52673d294c6b2499f89cce30837198, type: 3}
+  - index: 13
+    cost: 20
+    obj: {fileID: 5955693295549966667, guid: 8bc3b272f34c8fa44ab8dc27add42598, type: 3}
+  - index: 14
+    cost: 20
+    obj: {fileID: 2613594464161868812, guid: 1a3ccc856fa453a40b4355b2917ad0f3, type: 3}
+  - index: 15
+    cost: 20
+    obj: {fileID: 4282307651002264117, guid: 803ee330301d86f4abf40361b13a2cae, type: 3}
+  - index: 16
+    cost: 20
+    obj: {fileID: 3790148836101494339, guid: f721132e1687ee84ea092135f4877182, type: 3}
+  - index: 17
+    cost: 20
+    obj: {fileID: 8185090029954943685, guid: cebec9a30049a2e48b48c452df327b44, type: 3}
+  - index: 18
+    cost: 20
+    obj: {fileID: 369914479102853380, guid: 45d25ac7c15f7c44bafcaf40f33ddf39, type: 3}
+  - index: 19
+    cost: 20
+    obj: {fileID: 8245096775417752241, guid: 555f1eea4c861834b8103b69ed502b45, type: 3}
+  - index: 20
+    cost: 20
+    obj: {fileID: 489063147224978940, guid: cae9818ebfe2c5643838648b00c221f0, type: 3}
+  - index: 21
+    cost: 20
+    obj: {fileID: 5871073152063361296, guid: 183ef99f291d6704680206d5e6737137, type: 3}
+  - index: 22
+    cost: 20
+    obj: {fileID: 7414318979567602648, guid: a8fbcfe9f0c0e9943a80c6ba99f57077, type: 3}
+  - index: 23
+    cost: 20
+    obj: {fileID: 386354988945168146, guid: 2e370f1a5d7f98d47935236830402fbb, type: 3}
+  - index: 24
+    cost: 20
+    obj: {fileID: 780393726205026281, guid: 22dfa21052339bb4f8a88f7f3aee0951, type: 3}
+  - index: 25
+    cost: 20
+    obj: {fileID: 5292245464004621070, guid: db93425e31005cf468964f678daaf0fa, type: 3}
+  - index: 26
+    cost: 20
+    obj: {fileID: 7141890341659833791, guid: 57c668a06cfa35347a8f4eaf13d10757, type: 3}
